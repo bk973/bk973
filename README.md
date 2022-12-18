@@ -3,3 +3,5 @@ Hi there! My name is Bennjamin Kalungi and I am a world-class developer with ove
 I am passionate about solving complex problems and always strive to improve my skills and knowledge. On GitHub, you can find a selection of my personal projects and contributions to open-source projects. I am always open to collaborating and learning from others, so feel free to reach out and connect with me.
 
 Thank you for visiting my profile. I look forward to working with you and making an impact together!
+
+![](https://komarev.com/ghpvc/?bk973)
