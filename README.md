@@ -4,4 +4,4 @@ I am passionate about solving complex problems and always strive to improve my s
 
 Thank you for visiting my profile. I look forward to working with you and making an impact together!
 
-![](https://komarev.com/ghpvc/?bk973)
+![](https://komarev.com/ghpvc/?username=bk973)
